@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         try {
             // Define API URL
-            String apiUrl = "https://api.nationalize.io/?name=nathaniel";
+            String apiUrl = "https://api.zippopotam.us/us/33162";
 
             // Create URL object
             URL url = new URL(apiUrl);
